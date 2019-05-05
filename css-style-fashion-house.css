@@ -1,0 +1,217 @@
+@charset "utf-8";
+/* CSS Document */
+
+ body { 
+       background-color:#000;  
+	   margin: 0px; 
+	   padding:0px; 
+	   font-family:Arial, Helvetica, sans-serif; 
+       } 
+	   
+	   #content-for-all {
+	position: relative;
+	width: 780px;
+	margin-right: 235px;
+	margin-left: 235px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#menu-for-top-content {
+	background-color: #000;
+	position: relative;
+	width: 780px;
+}
+#menu-for-top-content ul {
+	list-style-type: none;
+	float: left;
+	padding-left: 20px;
+	clear: left;
+	width: 650px;
+	height: 25px;
+	padding-top: 5px;
+}
+.change {
+	color: #C00;
+}
+#top-content {
+	background-image: url(images/header-bg%20(2)
+.jpg);
+	position: relative;
+}
+#main-content {
+	position: relative;
+	width: 780px;
+}
+#left-content {
+	position: relative;
+	width: 480px;
+	clear: left;
+	float: left;
+	border-right-width: 1px;
+	border-right-style: dotted;
+	border-right-color: #FFF;
+	padding-left: 15px;
+}
+#right-content p {
+	color: #C00;
+	font-size: 10px;
+}
+#right-content img {
+	position: relative;
+}
+
+
+
+
+#main-content #left-content p {
+	color: #FFF;
+	font-size: 12px;
+	font-style: oblique;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+#left-content img {
+	margin-top: 15px;
+}
+#right-content #first-image {
+	width: 115px;
+	float: left;
+}
+#right-content #third-image {
+	float: left;
+	width: 115px;
+}
+#right-content #fourth-image {
+	float: right;
+	width: 115px;
+	padding-right: 20px;
+}
+#right-content #first-image p {
+	background-color: #900;
+	color: #FFF;
+	font-weight: bold;
+	font-size: 15px;
+}
+#right-content #third-image p {
+	font-size: 15px;
+	font-weight: bold;
+	color: #FFF;
+	background-color: #900;
+}
+#right-content #fourth-image p {
+	font-size: 15px;
+	font-weight: bold;
+	color: #FFF;
+	background-color: #900;
+}
+#right-content #second-image p {
+	font-size: 15px;
+	font-weight: bold;
+	color: #FFF;
+	background-color: #900;
+}
+#right-content #second-image {
+	float: right;
+	width: 115px;
+	clear: right;
+	padding-right: 20px;
+}
+#right-content #bottom-content-right p {
+	color: #FFF;
+	font-size: 12px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-style: italic;
+	float: right;
+	clear: right;
+	padding-right: 90px;
+}
+.h4-class {
+	color: #900;
+}
+#right-content {
+	position: relative;
+}
+
+
+
+
+#menu-for-top-content ul li {
+	float: left;
+	position: relative;
+	font-size: 12px;
+	font-weight: bold;
+	padding-right: 15px;
+	padding-left: 10px;
+}
+#menu-for-top-content p {
+	font-size: 12px;
+	font-weight: bold;
+	color: #C93;
+	margin-top: -10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#contact-in-menu {
+	float: right;
+	width: 250px;
+	clear: right;
+	margin-top: -48px;
+	margin-right: 20px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	position: relative;
+}
+#left-content ul li {
+	color: #FFF;
+	list-style-image: url(images/bul-body.gif);
+	position: relative;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-style: italic;
+	width: 120px;
+	float: left;
+	font-size: 13px;
+	padding-right: 20px;
+	margin-left: -5px;
+	padding-left: 5px;
+}
+
+
+
+#left-content p {
+	clear: left;
+	position: relative;
+	float: left;
+	color: #FFF;
+	margin-top: 15px;
+}
+#left-content p .h4-class {
+	color: #C00;
+}
+#left-content #bottom-content-left {
+	clear: left;
+	float: left;
+	position: relative;
+}
+#left-content #bottom-content-left img {
+	float: left;
+	position: relative;
+}
+
+
+
+#left-content #bottom-content-left img {
+	float: left;
+}
+#left-content #bottom-content-left p {
+	float: right;
+	clear: right;
+	margin-right: 55px;
+}
+#left-content #bottom-content-left img {
+	padding-right: 22px;
+	position: relative;
+}
+#bottom-content-left {
+	float: left;
+	width: 500px;
+}
